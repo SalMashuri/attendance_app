@@ -1,0 +1,88 @@
+{
+  "project_info": {
+    "project_number": "930101232549",
+    "project_id": "msg-attendance-3f2bc",
+    "storage_bucket": "msg-attendance-3f2bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930101232549:android:405f2632243d53245bde4c",
+        "android_client_info": {
+          "package_name": "com.example.attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930101232549-ml1gvq1fc47icr5lnkivbnlvdbmgoq2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlx2YBDkLLPOqUTiaqINwiH-89SrZIv8M"
+        },
+        {
+          "current_key": "AIzaSyDFQ3n8-h-_lsksh97W1zNziLrFt4bDEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930101232549-ml1gvq1fc47icr5lnkivbnlvdbmgoq2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930101232549-26ri0akgklh7o31un9ng4gs7i20rehad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.msg.attendance.ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930101232549:android:404128c019c518865bde4c",
+        "android_client_info": {
+          "package_name": "id.co.msg.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930101232549-ml1gvq1fc47icr5lnkivbnlvdbmgoq2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlx2YBDkLLPOqUTiaqINwiH-89SrZIv8M"
+        },
+        {
+          "current_key": "AIzaSyDFQ3n8-h-_lsksh97W1zNziLrFt4bDEkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930101232549-ml1gvq1fc47icr5lnkivbnlvdbmgoq2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930101232549-26ri0akgklh7o31un9ng4gs7i20rehad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.msg.attendance.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
